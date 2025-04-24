@@ -5,7 +5,7 @@ This project demonstrates best practices for secure password storage using `BCry
 
 Built as a C# console application, it shows how to securely handle user registration and authentication without storing plaintext passwords.
 
-It's a companion to [my post](https://ronnydelgado.com), where I dive deeper into the why and how.
+It's a companion to [my post](https://ronnydelgado.com/my-blog/security-understanding-encryption-salting), where I dive deeper into the why and how.
 
 ## Features
 - User registration with secure password hashing
